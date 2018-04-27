@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 6b8b3fc7fc9ab7741a50255a28b9cbd7
-timeCreated: 1524723001
+guid: 4f8798869e000b749a8b2492d40ce47f
+timeCreated: 1524805597
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: MannySpriteSheet_0
-    21300002: MannySpriteSheet_1
-    21300004: MannySpriteSheet_2
-    21300006: MannySpriteSheet_3
-    21300008: MannySpriteSheet_4
-    21300010: MannySpriteSheet_5
-    21300012: MannySpriteSheet_6
+    21300000: PlayerSpriteSheet_0
+    21300002: PlayerSpriteSheet_1
+    21300004: PlayerSpriteSheet_2
+    21300006: PlayerSpriteSheet_3
+    21300008: PlayerSpriteSheet_4
+    21300010: PlayerSpriteSheet_5
+    21300012: PlayerSpriteSheet_6
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -88,7 +88,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MannySpriteSheet_0
+      name: PlayerSpriteSheet_0
       rect:
         serializedVersion: 2
         x: 0
@@ -102,7 +102,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: MannySpriteSheet_1
+      name: PlayerSpriteSheet_1
       rect:
         serializedVersion: 2
         x: 32
@@ -116,7 +116,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: MannySpriteSheet_2
+      name: PlayerSpriteSheet_2
       rect:
         serializedVersion: 2
         x: 64
@@ -130,7 +130,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: MannySpriteSheet_3
+      name: PlayerSpriteSheet_3
       rect:
         serializedVersion: 2
         x: 96
@@ -144,7 +144,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: MannySpriteSheet_4
+      name: PlayerSpriteSheet_4
       rect:
         serializedVersion: 2
         x: 128
@@ -158,7 +158,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: MannySpriteSheet_5
+      name: PlayerSpriteSheet_5
       rect:
         serializedVersion: 2
         x: 160
@@ -172,7 +172,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: MannySpriteSheet_6
+      name: PlayerSpriteSheet_6
       rect:
         serializedVersion: 2
         x: 192
